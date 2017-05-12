@@ -1,3 +1,5 @@
 # dockerfiles for Deep Learning Environment
 
-hi
+Docker hub : https://hub.docker.com/r/xiilab/deep/
+
+clone and build or docker pull xiilab/deep

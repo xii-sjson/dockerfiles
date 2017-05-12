@@ -257,7 +257,7 @@ EXPOSE 6006
 # IPython
 EXPOSE 8888
 
-##################
+######## for display in docker container ########
 
 RUN apt-get install -y libcanberra-gtk-module packagekit-gtk3-module
 RUN pip install dlib
